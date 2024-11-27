@@ -1,0 +1,29 @@
+html {
+    background-color: blueviolet;
+    color: #222222;
+}
+
+a {
+    color: beige;
+    text-decoration: none;
+}
+  
+
+ul {
+    list-style-type: none;
+}
+
+
+.centered {
+    text-align: center;
+}
+
+li {
+    padding: 8px;
+    margin: 12px auto;
+    width: max-content;
+}
+
+h1 {
+    margin: 24px auto;
+}
