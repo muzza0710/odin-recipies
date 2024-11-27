@@ -14,16 +14,28 @@ ul {
 }
 
 
-.centered {
-    text-align: center;
-}
-
 li {
-    padding: 8px;
-    margin: 12px auto;
+    padding: 4px;
+    margin: 8px auto;
     width: max-content;
 }
 
 h1 {
     margin: 24px auto;
+}
+
+h2 {
+    margin-top: 36px;
+}
+
+img {
+    border-radius: 5px;
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: 12px auto;
+}
+
+.centered {
+    text-align: center;
 }
